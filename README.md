@@ -1,0 +1,1 @@
+We perform the implementation to verify the generalization of other medical images using the X-ray image JSRT dataset (Japanese society of radiological technology). The JSRT database includes 154 chest radiograph with lung nodule and 93 chest radiograph without lung nodule with 2048 X 2048 matrix size. 
